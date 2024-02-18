@@ -6,9 +6,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/04/Multiplication_2880x1220_HPA.gif">
 
-
+- 🔭 I’m currently working on **Improving my self**
+  
 - 🌱 I’m currently learning **Flutter**
 
+- 🤝 I’m looking for help with **Application Development**
+  
 - 💬 Ask me about **JS , CSS , WebScarping , ML , Java**
 
 - 📫 How to reach me **smasrdd@gmail.com**
@@ -23,6 +26,6 @@
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalkharashi1&show_icons=true&locale=en&layout=compact" alt="abdullahalkharashi1" /></p>
 <br><br><br><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalkharashi1&show_icons=true&locale=en" alt="abdullahalkharashi1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalkharashi1&show_icons=true&locale=en" alt="abdullahalkharashi1" /></p>
 
 
