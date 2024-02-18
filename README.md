@@ -31,5 +31,5 @@
 # Whats In The Repository 🤔
 - <h4>Fawater : A utility bill mangment website that helps citizens in Saudi Arabia fetch and compare their water and electrcity bills ⚡️💧</h4>
 - <h4>TheShow : As the name suggests its a car show website where car enthusiast gather and show off their cars ! 🏎️</h4>
-- <h4>LL(1) : top-down parser meaning start from root to leaves this code helps find the parsing table and first and follow of a given grammar 🍃</h4>
+- <h4>LL-1-Parser : LL(1) is a top-down parser meaning start from root to leaves this code helps find the parsing table and first and follow of a given grammar 🍃</h4>
 - <h4>SnakeGame : The classic snake game , try to not bite your self 🐍 .</h4> 
